@@ -18,8 +18,8 @@ Display the rotated linked list.
 ```
 /*
 Program to  Right Rotation LinkedList
-Developed by: JAGADEESH.A
-RegisterNumber: 212224230098
+Developed by: DHEEBASH SAI.R
+RegisterNumber: 212224040075
 */
 ```
 ```
